@@ -6,7 +6,7 @@
     "id": "cordova-plugin-wifi",
     "platforms": [
       "ios",
-      "android",
+      "android"
     ]
   },
   "repository": {
